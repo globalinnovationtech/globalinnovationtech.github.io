@@ -1,2 +1,2 @@
 # globalinnovationtech.github.io
-Website for Global Innaovation
+Website for Global Innovation
